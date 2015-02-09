@@ -12,5 +12,6 @@ package prueba;
 public class Prueba {
     
     private String nombre;
-    
+    private String apellido;
+    private String telefono;
 }
